@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/token-vendor-ann/static/css/main.4245d761.css",
+    "main.js": "/token-vendor-ann/static/js/main.2525db4b.js",
+    "static/js/787.7ac42664.chunk.js": "/token-vendor-ann/static/js/787.7ac42664.chunk.js",
+    "index.html": "/token-vendor-ann/index.html",
+    "main.4245d761.css.map": "/token-vendor-ann/static/css/main.4245d761.css.map",
+    "main.2525db4b.js.map": "/token-vendor-ann/static/js/main.2525db4b.js.map",
+    "787.7ac42664.chunk.js.map": "/token-vendor-ann/static/js/787.7ac42664.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4245d761.css",
+    "static/js/main.2525db4b.js"
+  ]
+}
